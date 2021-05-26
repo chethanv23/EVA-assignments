@@ -1,5 +1,5 @@
 
-#FEED FORWARD NETWORKS and Back propagation
+#FEED FORWARD NETWORKS and BACK PRAPAGATION
 
 ![image](https://user-images.githubusercontent.com/65776820/119707157-74cee080-be78-11eb-9f94-1f82938d6c83.png)
 
@@ -17,12 +17,19 @@ a_h1 activated layer which is activated h1, as an activation parameter we used s
  singmoid fumction  = o(x) = 1/1+e(-x)
 
 h1 = w1*i1+w2*i2
+
 h2 = w3*i1+w4*i4
+
 a_h1 = σ(h1)=1/(1+exp(-h1))
+
 a_h2 = σ(h2)=1/(1+exp(-h2))
+
 o1 = w5*ah1+w6*a_h2
+
 o1 = w7*ah1+w8*a_h2
+
 a_o1 = σ(o1) =1/(1+exp(-o1))
+
 a_o1 = σ(o1) =1/(1+exp(-ho2))
 
 Etotal is the total combined errors E1 and E2
