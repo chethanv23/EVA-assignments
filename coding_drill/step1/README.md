@@ -1,19 +1,19 @@
-**Target:**
+##Target:
 
-Get the set-up right
+-Get the set-up right
 
-Set Transforms
+-Set Transforms
 
-Set Data Loader
+-Set Data Loader
 
-Set Basic Working Code
+-Set Basic Working Code
 
-Set Basic Training  & Test Loop
+-Set Basic Training  & Test Loop
 
-Get the basic skeleton right. We will try and avoid changing this skeleton as much as possible.
+-Get the basic skeleton right. We will try and avoid changing this skeleton as much as possible.
 
 
-**Results:**
+##Results:
 
 Parameters: 194k
 
@@ -21,7 +21,7 @@ Best Train Accuracy: 99.35
 
 Best Test Accuracy: 99.02
 
-**Analysis:**
+##Analysis:
 
 The model is large, but working. 
 
