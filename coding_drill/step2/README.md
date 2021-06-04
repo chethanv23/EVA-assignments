@@ -1,4 +1,4 @@
-## 1. Target**
+## 1. Target
 
 - Making the model lighter
 
@@ -14,7 +14,7 @@
 
 - 15 Epochs
 
-## 2. Result**
+## 2. Result
 
 - Params: 13,808
 
@@ -22,7 +22,7 @@
 
 - Best Test Accuracy : 99.35%
 
-## 3. Analysis**
+## 3. Analysis
 
 - The model is not overfitting, but we need to reduce the number of params, since our target is 10K Params
 
