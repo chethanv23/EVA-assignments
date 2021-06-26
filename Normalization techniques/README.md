@@ -47,11 +47,31 @@ The group normalization and L1 regularization didn't do a good job on model accu
 
 The Layer normalization should add more parameters to the network, hence it should be computationally expensive.
 
+![image](https://user-images.githubusercontent.com/65776820/123522258-e13c3a00-d6d9-11eb-9e5d-b0437a905d7b.png)
+
+
 
 
 ## Batch Normalization L1 + L2
 
 The Batch normalization and L1/L2 regularization improved the accuracy to 99.15% with same number of parameters
+
+![image](https://user-images.githubusercontent.com/65776820/123522267-ed27fc00-d6d9-11eb-8f71-4dbc88d0a86e.png)
+
+
+## Train Loss Observation
+
+![image](https://user-images.githubusercontent.com/65776820/123522276-ff099f00-d6d9-11eb-89a3-60fda9a89232.png)
+
+
+## Test Loss Observation
+
+![image](https://user-images.githubusercontent.com/65776820/123522291-0e88e800-d6da-11eb-92e6-1ab85a6c2125.png)
+
+## Train Accuracy Observation
+
+![image](https://user-images.githubusercontent.com/65776820/123522303-1a74aa00-d6da-11eb-8427-3e4fb74156ed.png)
+
 
 
 ## Manual Calculation
